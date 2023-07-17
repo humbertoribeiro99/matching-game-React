@@ -1,3 +1,4 @@
+
 import BoardGame from "./src/objetcs/BoardGame";
 import ScoreBoard from "./src/objetcs/ScoreBoard";
 import "./src/styles/elements/base.css";
@@ -15,7 +16,7 @@ $root.insertAdjacentHTML(
     "beforeend", 
     `
     ${ScoreBoard()}
-    ${BoardGame(6)}
+    ${BoardGame(2)}
     `
 
 )//metodo seguro para mostrar na tela do seu html
