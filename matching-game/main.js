@@ -16,7 +16,7 @@ $root.insertAdjacentHTML(
     "beforeend", 
     `
     ${ScoreBoard()}
-    ${BoardGame(2)}
+    ${BoardGame(6)}
     `
 
 )//metodo seguro para mostrar na tela do seu html
