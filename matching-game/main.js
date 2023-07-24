@@ -1,4 +1,5 @@
 
+import VsPlayer from "./src/components/VsPlayer";
 import BoardGame from "./src/objetcs/BoardGame";
 import ScoreBoard from "./src/objetcs/ScoreBoard";
 import "./src/styles/elements/base.css";
